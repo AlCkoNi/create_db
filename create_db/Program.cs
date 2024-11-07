@@ -7,7 +7,7 @@ namespace create_db
     {
         static void Main(string[] args)
         {
-
+            Write("YOU");
         }
     }
 }
